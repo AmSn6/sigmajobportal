@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199084898581",
+    "project_id": "sigma-jobs-49628",
+    "storage_bucket": "sigma-jobs-49628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199084898581:android:7a03160fa3dde55b8ed11c",
+        "android_client_info": {
+          "package_name": "in.sigmacomputers.sigmajobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199084898581-q6gkjkpl1v2cb66hoca4ed63g3jp4sc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuxBhGZ_nI9Ea6Nt_CGR96mBLh6LS1rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199084898581-q6gkjkpl1v2cb66hoca4ed63g3jp4sc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
