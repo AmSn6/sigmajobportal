@@ -117,6 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
       });
     } else {
       setState(() {
+
         isUpdateAvailable = false;
       });
       String userID = await storage.read(key: skCandidateID);
